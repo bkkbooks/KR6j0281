@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0281/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 何耶揭唎婆觀世音菩薩受法壇
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1074.xml
+    old_id: T20n1074
+hash: sha256:747598c3fa1183db9ab3b0474e4ecb1b82c1bba91816d0e82dc60241b4d44aba

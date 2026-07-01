@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0281/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0281/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 何耶揭唎婆觀世音菩薩受法壇
+  identifiers:
+    krp: KR6j0281
+    cbeta: T20n1074
+    cbeta_old_id: T20n1074
+    authorityid: CA0001322
+    json_key: T1074
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1074.xml
+    old_id: T20n1074
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0281_000-T.yaml, hash: 'sha256:747598c3fa1183db9ab3b0474e4ecb1b82c1bba91816d0e82dc60241b4d44aba'}
+  - {seq: 1, filename: KR6j0281_001-T.yaml, hash: 'sha256:9f2ce0bf439b7f73a53a13edc7e18ea60f59682ef1257f483bd64fdee08ce340'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0281_000-T.markers.yaml, hash: 'sha256:96e8486ff2abceaa419726d2269e014a2f14125abbee6fef61091ae3ba520953'}
+  - {seq: 1, role: markers, filename: assets/KR6j0281_001-T.markers.yaml, hash: 'sha256:e0cc1dedd937d635c76b9b8d198ebf38311555239eed7ee30da2b55d20b0c6dd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0281_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1176
+  label: '何耶揭唎婆觀世音菩薩受法
+
+    壇'
+  type: juan
+  level: 1
+hash: sha256:c6430b4f6b81ccf063cbd71cbf13d409032939d51fdb0a498cbdd8fc05d6c10d
