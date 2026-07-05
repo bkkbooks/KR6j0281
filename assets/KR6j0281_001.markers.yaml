@@ -69,7 +69,6 @@ markers:
   - {type: xml-element, offset: 223, content: '', id: pT20p0172a1301, name: p, role: open, attrs: {'cb:type': dharani, 'xml:id': pT20p0172a1301}}
   - {type: xml-element, offset: 225, content: '', id: KR6j0281_T_001-bkkxmlele5, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 227, content: '', id: KR6j0281_T_001-bkkxmlele6, name: note, role: close, attrs: {place: inline}}
-  - {type: substitution, offset: 228, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 230, content: '', id: KR6j0281_T_001-bkkxmlele7, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 232, content: '', id: KR6j0281_T_001-bkkxmlele8, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 233, content: '', id: KR6j0281_T_001-bkkxmlele9, name: note, role: open, attrs: {place: inline}}
@@ -157,7 +156,6 @@ markers:
   - {type: xml-element, offset: 489, content: '', id: KR6j0281_T_001-bkkxmlele29, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 490, content: '', id: KR6j0281_T_001-bkkxmlele30, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 490, content: 　, id: KR6j0281_T_001-bkkind6}
-  - {type: substitution, offset: 492, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 496, content: '', id: KR6j0281_T_001-bkkxmlele31, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 497, content: '', id: KR6j0281_T_001-bkkxmlele32, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 497, content: 　, id: KR6j0281_T_001-bkkind7}
@@ -489,7 +487,6 @@ markers:
   - {type: punctuation, offset: 1087, content: 。, id: KR6j0281_T_001-bkkpn102}
   - {type: line-break, offset: 1090, content: '', id: KR6j0281_T_001-0172c05, ed: T, 'n': 0172c05}
   - {type: punctuation, offset: 1100, content: ，, id: KR6j0281_T_001-bkkpn103}
-  - {type: substitution, offset: 1104, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: line-break, offset: 1108, content: '', id: KR6j0281_T_001-0172c06, ed: T, 'n': 0172c06}
   - {type: xml-element, offset: 1108, content: '', id: KR6j0281_T_001-bkkxmlele191, name: note, role: open, attrs: {place: inline}}
   - {type: variant, offset: 1110, length: 3, content: 反，又云, 甲: 反云, 乙: 又云, 丙: 又}
@@ -510,7 +507,6 @@ markers:
   - {type: xml-element, offset: 1144, content: '', id: KR6j0281_T_001-bkkxmlele195, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 1145, content: '', id: KR6j0281_T_001-bkkxmlele196, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 1145, content: 　, id: KR6j0281_T_001-bkkind50}
-  - {type: substitution, offset: 1147, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: xml-element, offset: 1150, content: '', id: KR6j0281_T_001-bkkxmlele197, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 1151, content: '', id: KR6j0281_T_001-bkkxmlele198, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 1151, content: 　, id: KR6j0281_T_001-bkkind51}
@@ -533,4 +529,4 @@ markers:
   - {type: xml-element, offset: 1176, content: '', id: KR6j0281_T_001-bkkxmlele208, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 1176, content: '', id: pT20p0172c0801_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pT20p0172c0801}}
   back: []
-hash: sha256:80e510f83fa95682517df24509b57c4dfa86332eb2e6bb311084bd877dfdd0a1
+hash: sha256:1e7aabac2ea4c2a9dfefd7db4e207a8f411303f9b3a67e71c9aee566b1ae69a7
