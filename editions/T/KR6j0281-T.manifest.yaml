@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6j0281_000-T.yaml, hash: 'sha256:747598c3fa1183db9ab3b0474e4ecb1b82c1bba91816d0e82dc60241b4d44aba'}
   - {seq: 1, filename: KR6j0281_001-T.yaml, hash: 'sha256:9f2ce0bf439b7f73a53a13edc7e18ea60f59682ef1257f483bd64fdee08ce340'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0281_000-T.markers.yaml, hash: 'sha256:96e8486ff2abceaa419726d2269e014a2f14125abbee6fef61091ae3ba520953'}
+  - {seq: 0, role: markers, filename: assets/KR6j0281_000-T.markers.yaml, hash: 'sha256:5713250a9b0d60c7ba0a9e5588e8f20128a40395fa2249c307d8997ae5771552'}
   - {seq: 1, role: markers, filename: assets/KR6j0281_001-T.markers.yaml, hash: 'sha256:e0cc1dedd937d635c76b9b8d198ebf38311555239eed7ee30da2b55d20b0c6dd'}
 table_of_contents:
 - ref:
@@ -37,4 +37,4 @@ table_of_contents:
     壇'
   type: juan
   level: 1
-hash: sha256:c6430b4f6b81ccf063cbd71cbf13d409032939d51fdb0a498cbdd8fc05d6c10d
+hash: sha256:b7e471859be9ab0363433c8eece554abffc9a940578ed436e3d77b2fdd0b9311
